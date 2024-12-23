@@ -1,0 +1,23 @@
+#add {
+  margin-top: 20px;
+}
+
+#clear {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.highlighted {
+  /* border: 3px solid red !important; */
+  background-color: rgba(0, 252, 0, 0.445) !important;
+}
+
+.leftborder {
+  border-top-left-radius: 6% !important;
+  border-bottom-left-radius: 6% !important;
+}
+
+.rightborder {
+  border-top-right-radius: 6% !important;
+  border-bottom-right-radius: 6% !important;
+}
